@@ -15,8 +15,11 @@ First, clean up the converted data files and delete some invalid data such as ye
 Visualization：
 
 After processing the data, the player's playing time and T90 value, the team's T90 average data, and T90 total data are displayed by histogram and scatter diagram respectively.
+
 ![This is an image](https://github.com/Ziwen77/Data-115/blob/27bf61265df59791b0ae063b2a11c149b7cff2c0/T90-Min.jpg)
+
 ![This is an image](https://github.com/Ziwen77/Data-115/blob/27bf61265df59791b0ae063b2a11c149b7cff2c0/T90%20of%20Team.jpg)
+
 ![This is an image](https://github.com/Ziwen77/Data-115/blob/27bf61265df59791b0ae063b2a11c149b7cff2c0/Average%20of%20T90.jpg)
 
 Analysis:
