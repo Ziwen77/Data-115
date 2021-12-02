@@ -10,10 +10,14 @@ I get the personal statistics of the 2019-2020 English Premier League from the w
 Processing Steps：
 
 First, clean up the converted data files and delete some invalid data such as yellow cards, number of stars, number of fouls, and so on. Finally, 9 columns of player, POS (position), square (the name of team), age, MP (match play), min (minutes), GLS (goals), AST (assistants), and PK are reserved. The personnel data for this analysis were determined by screening the age (18-25) and the player's position on the field (DF). A total of 98 people from 20 different clubs are eligible. Then we added three items: G90 (goal efficiency), a90 (assist efficiency) and T90 (total efficiency) to help us more intuitively determine the efficiency value of these players through numbers.
+![This is an image](https://github.com/Ziwen77/Data-115/blob/27bf61265df59791b0ae063b2a11c149b7cff2c0/T90.jpg)
 
 Visualization：
 
 After processing the data, the player's playing time and T90 value, the team's T90 average data, and T90 total data are displayed by histogram and scatter diagram respectively.
+![This is an image](https://github.com/Ziwen77/Data-115/blob/27bf61265df59791b0ae063b2a11c149b7cff2c0/T90-Min.jpg)
+![This is an image](https://github.com/Ziwen77/Data-115/blob/27bf61265df59791b0ae063b2a11c149b7cff2c0/T90%20of%20Team.jpg)
+![This is an image](https://github.com/Ziwen77/Data-115/blob/27bf61265df59791b0ae063b2a11c149b7cff2c0/Average%20of%20T90.jpg)
 
 Analysis:
 
