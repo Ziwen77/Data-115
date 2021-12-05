@@ -5,7 +5,7 @@ As a fan of Manchester United in England's Premier League, the team has not perf
 
 Data Sources：
 
-I get the personal statistics of the 2019-2020 English Premier League from the website FBREF. The total number of players in the whole league reached 522, but when converted to file. CSV, I don't know why 23 people were lost. After inspection, these 23 people are not within the age range of 18-25 and are not within the scope of this survey.
+I get the personal statistics of the 2019-2020 England Premier League from the website FBREF. The total number of players in the whole league reached 522, but when converted to file. CSV, I don't know why 23 people were lost. After inspection, these 23 people are not within the age range of 18-25 and are not within the scope of this survey.
 
 Processing Steps：
 
